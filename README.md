@@ -1,6 +1,17 @@
 # Myghpay-php
 MYGHPAY CLIENT INTEGRATION PHP
 
+----- In payment.php file ------
+
+Please change the below credentials:
+
+1. shopname
+2. myghpayclientref
+3. myghpayclientsecret
+4. myghpayclientid
+5. myghpaysecurehash
+6. myghpayreturnurl
+
 
 MYGHPAY CLIENT INTEGRATION DOCUMENTATION
 
