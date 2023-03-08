@@ -30,3 +30,4 @@ Base URL (Test): http://196.216.228.23/myghpayclient/
 
 Base URL (Live): https://myghpay.com/myghpayclient/
 
+READ MORE HERE >>> https://myghpay.com/docs/myghpayclient_integration.pdf
