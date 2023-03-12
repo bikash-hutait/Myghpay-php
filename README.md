@@ -42,3 +42,13 @@ Base URL (Test): http://196.216.228.23/myghpayclient/
 Base URL (Live): https://myghpay.com/myghpayclient/
 
 READ MORE HERE >>> https://myghpay.com/docs/myghpayclient_integration.pdf
+
+
+<img src="https://github.com/bikash-hutait/Myghpay-php/blob/main/screenshot/1.jpg">
+
+<img src="https://github.com/bikash-hutait/Myghpay-php/blob/main/screenshot/2.jpg">
+
+<img src="https://github.com/bikash-hutait/Myghpay-php/blob/main/screenshot/3.jpg">
+
+<img src="https://github.com/bikash-hutait/Myghpay-php/blob/main/screenshot/4.jpg">
+
